@@ -20,6 +20,9 @@ $$
     \end{array} \right)
 \end{aligned}
 $$
+$$
+a=b
+$$
 
 ```note
 For documentation, see: https://kramdown.gettalong.org/syntax.html#math-blocks
